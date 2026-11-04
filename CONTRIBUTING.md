@@ -18,7 +18,7 @@ contributing.
 
 ## Reporting bugs and requesting features
 
-Open an issue on the [issue tracker](https://github.com/lnorton89/rustaman/issues).
+Open an issue on the [issue tracker](https://github.com/freeknet/rustaman/issues).
 Security vulnerabilities are *not* reported there — see
 [`SECURITY.md`](SECURITY.md) for the private channel.
 

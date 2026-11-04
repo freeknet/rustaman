@@ -77,7 +77,7 @@ const CHANGELOG: &str = "CHANGELOG.md";
 
 /// Used to build the commit and compare links. Taken from `Cargo.toml`'s
 /// `repository` field rather than guessed.
-const REPO: &str = "https://github.com/lnorton89/rustaman";
+const REPO: &str = "https://github.com/freeknet/rustaman";
 
 /// Heading for commits that have not shipped in a tagged release yet.
 const UNRELEASED: &str = "## [Unreleased]";

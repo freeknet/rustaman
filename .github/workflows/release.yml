@@ -214,7 +214,7 @@ jobs:
       # exactly those; the `.sha256` companions are not attested, because
       # an attestation *is* a signed digest and a signed
       # checksum-of-a-checksum adds nothing. Verifiable with
-      # `gh attestation verify <file> -R lnorton89/rustaman`.
+      # `gh attestation verify <file> -R freeknet/rustaman`.
       #
       # This is the supply-chain half a project without paid signing
       # certificates can still provide. Authenticode needs a code-signing
@@ -230,7 +230,7 @@ jobs:
       # And the SBOM again as a real SBOM attestation, so the CycloneDX
       # document is cryptographically bound to the artifact it describes
       # rather than merely uploaded beside it —
-      # `gh attestation verify <artifact> -R lnorton89/rustaman
+      # `gh attestation verify <artifact> -R freeknet/rustaman
       #  --predicate-type https://cyclonedx.org/bom` retrieves it.
       - name: Attest SBOM
         uses: actions/attest-sbom@c604332985a26aa8cf1bdc465b92731239ec6b9e # v4.1.0

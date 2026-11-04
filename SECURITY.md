@@ -6,7 +6,7 @@ Please do **not** open a public issue for a security vulnerability. Instead,
 report it privately:
 
 - **Preferred:** use GitHub's private vulnerability reporting on the
-  [Security tab](https://github.com/lnorton89/rustaman/security/advisories/new).
+  [Security tab](https://github.com/freeknet/rustaman/security/advisories/new).
 - **By email:** [lnorton89@gmail.com](mailto:lnorton89@gmail.com). If you
   encrypt, ask for a key first; otherwise plain text is fine.
 
@@ -44,5 +44,5 @@ What *is* in scope:
   influenced strings that this app reads and displays.
 
 Everything else — bug reports, feature requests, and questions — belongs on
-the [issue tracker](https://github.com/lnorton89/rustaman/issues); see
+the [issue tracker](https://github.com/freeknet/rustaman/issues); see
 [`CONTRIBUTING.md`](CONTRIBUTING.md).
